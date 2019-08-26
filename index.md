@@ -5,9 +5,7 @@ tagline: The art of being agile
 ---
 {% include JB/setup %}
 
-## Welcome!
-
-This site is all about being agile. Not "doing" a process called "Agile," but actually developing and operating in an agile manner.
+This site is all about *being* agile. Not "doing" a process called "Agile," but actually developing software and designing systems that operate in an agile manner.
 
 Agile is an adjective, not a noun.
 
