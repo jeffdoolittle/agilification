@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Agilification
+title: Welcome
 tagline: The art of being agile
 ---
 {% include JB/setup %}
