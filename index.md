@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Agilification
+tagline: The art of being agile
 ---
 {% include JB/setup %}
 
