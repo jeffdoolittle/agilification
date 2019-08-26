@@ -17,7 +17,7 @@ author :
   twitter : jeffdoolittle
   # feedburner : feedname
 
-# favicon: https://favicon.io/favicon-generator/?t=A&ff=Londrina+Shadow&fs=125&fc=%23FFF&b=rounded&bc=%23444
+# favicon: https://favicon.io/favicon-generator/?t=A&ff=Londrina+Shadow&fs=125&fc=%23FFF&b=circle&bc=%23AAA
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
